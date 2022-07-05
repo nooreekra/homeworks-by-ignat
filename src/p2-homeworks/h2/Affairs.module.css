@@ -1,0 +1,29 @@
+.hw2 {
+    margin: 25px;
+}
+
+.wrapper {
+    margin-left: 25px;
+}
+
+.Ul {
+    padding: 0;
+    height: 180px;
+}
+
+.list {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    align-items: center;
+    height: 30px;
+}
+
+button {
+    margin-right: 5px;
+}

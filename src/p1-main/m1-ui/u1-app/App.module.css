@@ -1,0 +1,18 @@
+.App {
+    background-color:rgb(42, 46, 63);
+    color:antiquewhite;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    background-color: cadetblue;
+    border-color: transparent;
+    border-radius: 5%;
+    color: rgb(42, 46, 63);
+}
